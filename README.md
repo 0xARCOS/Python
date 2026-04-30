@@ -18,20 +18,6 @@
 
 ---
 
-## Ruta de Aprendizaje
-
-```
-PM00          PM01          PM02          PM03          PM04          PM05          PM07
-  │             │             │             │             │             │             │
-  ▼             ▼             ▼             ▼             ▼             ▼             ▼
-Sintaxis  ─► Clases    ─► Excepciones ─► Estructuras ─► Archivos ─► ABCs      ─► Patrones
-Básica        y OOP         y Errores     de Datos       I/O       Polimorf.    de Diseño
-  │                                                                               │
-  └──────────────────── 49 ejercicios ──────────────────────────────────────────►┘
-```
-
----
-
 ## Módulos
 
 <details>
@@ -286,41 +272,6 @@ creature.execute()   # prioriza la defensa
 </details>
 
 ---
-
-## Progresión de Habilidades
-
-```
-Nivel           Módulo    Concepto Clave
-────────────────────────────────────────────────────────
- Principiante    PM00     Variables, condicionales, bucles, recursión
- Básico          PM01     Clases, instancias, métodos, Factory
- Intermedio      PM02     Excepciones estándar y personalizadas
- Intermedio      PM03     Diccionarios, sets, argumentos CLI
- Intermedio      PM04     File I/O, context managers
- Avanzado        PM05     ABCs, interfaces, polimorfismo
- Avanzado        PM07     Factory, Decorator/Mixin, Strategy
-```
-
----
-
-## Estructura del Repositorio
-
-```
-Python/
-├── pm00/          # 9 ejercicios — Fundamentos
-├── pm01/          # 7 ejercicios — OOP
-├── pm02/          # 6 ejercicios — Excepciones
-├── pm03/          # 7 ejercicios — Estructuras de datos
-├── pm04/          # 4 ejercicios — File I/O
-├── pm05/          # 3 ejercicios — ABCs
-└── pm07/          # 13 ejercicios — Patrones de diseño
-    ├── ex0/       #   Factory Pattern
-    ├── ex1/       #   Decorator/Mixin Pattern
-    ├── ex2/       #   Strategy Pattern
-    ├── battle.py
-    └── capacitor.py
-```
-
 ---
 
 ## Requisitos
@@ -332,6 +283,6 @@ Python/
 
 <div align="center">
 
-**49 ejercicios · 7 módulos · 1 ruta de aprendizaje completa**
+**49 ejercicios · 7 módulos**
 
 </div>
