@@ -1,0 +1,3 @@
+
+class InvalidBattleError(Exception):
+    pass
