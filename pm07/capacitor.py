@@ -4,14 +4,14 @@ from ex1 import HealingCreatureFactory, TransformCreatureFactory
 def test_healing():
     print("Testing Creature with healing capability")
     factory = HealingCreatureFactory()
-    
+
     # Base
     print("base:")
     c_base = factory.create_base()
     print(c_base.describe())
     print(c_base.attack())
     print(c_base.heal())
-    
+
     # Evolved
     print("evolved:")
     c_evolved = factory.create_evolved()
@@ -23,7 +23,7 @@ def test_healing():
 def test_transform():
     print("\nTesting Creature with transform capability")
     factory = TransformCreatureFactory()
-    
+
     # Base
     print("base:")
     c_base = factory.create_base()
@@ -32,7 +32,7 @@ def test_transform():
     print(c_base.transform())
     print(c_base.attack())
     print(c_base.revert())
-    
+
     # Evolved
     print("evolved:")
     c_evolved = factory.create_evolved()

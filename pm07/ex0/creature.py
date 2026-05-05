@@ -5,7 +5,7 @@ class Creature(ABC):
     def __init__(self, name: str, creature_type: str) -> None:
         self._name = name
         self._type = creature_type
-    
+
     @abstractmethod
     def attack(self) -> str:
         pass
