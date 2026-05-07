@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Python+Learning+Path;De+Cero+a+Patrones+de+Dise%C3%B1o;49+Ejercicios+Progresivos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Python+Learning+Path;42+curriculum;49+Ejercicios+Progresivos" alt="Typing SVG" />
 
 <br/>
 
